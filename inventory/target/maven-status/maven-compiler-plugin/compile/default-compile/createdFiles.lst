@@ -1,0 +1,7 @@
+com\inventory\LoginController.class
+com\inventory\Product.class
+module-info.class
+com\inventory\DatabaseConnection.class
+com\inventory\ProductDAO.class
+com\inventory\ProductManagementController.class
+com\inventory\App.class
